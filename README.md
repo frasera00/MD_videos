@@ -1,4 +1,4 @@
-# MD_videos
+# MD videos
 
 This repository contains trajectories of molecular dynamics simulations for several realizations of grafted pores.
 The trajectories show water intrusion and extrusion events.
